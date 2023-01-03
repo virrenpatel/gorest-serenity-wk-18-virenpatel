@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Go rest CURD test","This method will get all users records","SUCCESS","2023-01-03T18:02:37.796Z[Europe/London]","0.0","3.05"
+"Go rest CURD test","This method will create a new users record and verify it by its ID","SUCCESS","2023-01-03T18:02:40.874Z[Europe/London]","0.0","2.23"
+"Go rest CURD test","This method will update the existing record","SUCCESS","2023-01-03T18:02:43.109Z[Europe/London]","0.0","1.4"
+"Go rest CURD test","This method will delete the existing record","SUCCESS","2023-01-03T18:02:44.508Z[Europe/London]","0.0","1.8"
